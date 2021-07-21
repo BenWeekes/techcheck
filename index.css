@@ -71,3 +71,38 @@ input {
     height: 240px;
   }
 }
+
+.techcheckpage{
+  height: 400px;
+}
+
+.tech_buttons{
+  height: 37px;
+  width: 405px;
+  position: absolute;
+  top: 378px;
+  right: -1px;
+}
+
+.speaker-play{
+  position: absolute;
+  right: 31px;
+}
+
+.hidden{
+ display: none;
+}
+
+.btn-tech-ok{
+  width:250px;
+}
+
+.tech_check_divide{
+  margin-top: 30px;
+}
+
+.btn-help{
+  background-color: lightgray;
+}
+
+
